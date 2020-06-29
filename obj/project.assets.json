@@ -8919,11 +8919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Tai_Lieu\\Kỳ học 20192\\Project2\\Project2\\Project2.csproj",
+      "projectUniqueName": "C:\\Users\\HAU\\Desktop\\ASP.NET MVC\\E-Learning-ASP.NET-CORE\\Project2.csproj",
       "projectName": "Project2",
-      "projectPath": "C:\\Tai_Lieu\\Kỳ học 20192\\Project2\\Project2\\Project2.csproj",
+      "projectPath": "C:\\Users\\HAU\\Desktop\\ASP.NET MVC\\E-Learning-ASP.NET-CORE\\Project2.csproj",
       "packagesPath": "C:\\Users\\HAU\\.nuget\\packages\\",
-      "outputPath": "C:\\Tai_Lieu\\Kỳ học 20192\\Project2\\Project2\\obj\\",
+      "outputPath": "C:\\Users\\HAU\\Desktop\\ASP.NET MVC\\E-Learning-ASP.NET-CORE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
